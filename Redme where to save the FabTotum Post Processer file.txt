@@ -1,0 +1,17 @@
+
+//Modified by Ohad Meyuhas 05/06/2015(Original file https://gist.github.com/paulkaplan/8359802 by paulkaplan)
+//This work may be reproduced, modified, distributed,
+//performed, and displayed for any purpose. Copyright is
+//retained and must be preserved. The work is provided
+//as is; no warranty is provided, and users accept all
+//liability.
+
+Those files are Post FabTotum milling post processors for Vectric programs
+
+Start any Vectric program (Aspire, Cut2D, Vcarve)
+On the top menu go to File > Open Application Data Folder.
+This will open a new window showing all the program's support folders.
+Select the Postp folder and save the new FabTotum *.pp files. [FabTotum_NC_Inch.pp, FabTotum_NC_mm.pp]
+
+
+
